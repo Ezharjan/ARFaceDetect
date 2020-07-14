@@ -1,6 +1,7 @@
-# AR AI VIS Demo
+# AR Face Detection Demo
 
 Explore the AR world with AI and visualization.
+
 
 
 ### How to run
@@ -8,6 +9,8 @@ Explore the AR world with AI and visualization.
 - git clone this repositry  into YourProjectFolder
 - cd YourProjectFolder && npm install
 - npm start
+- open your browser and type 127.0.0.1:3000 to see the result
+
 
 
 ### Roadmap
@@ -18,3 +21,7 @@ Explore the AR world with AI and visualization.
 - [ ] network database
 - [ ] visualize network
 - [ ] render visualization into AR world
+
+<br><br><br>
+
+</p align="right">Finalized by :Alexander Ezharjan</p>
