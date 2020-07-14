@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>AR VIS: basic example of AR Face Detection</title>
+    <meta charset="utf-8">
+</head>
+
+<body>
+    <h1>AR VIS Demo</h1>
+    <div class="demo-container">
+        <div class="select">
+            <label for="audioSource">Audio source: </label><select id="audioSource"></select>
+        </div>
+        <div class="select">
+            <label for="videoSource">Video source: </label><select id="videoSource"></select>
+        </div>
+        <video id="video" width="600" height="500" preload autoplay loop muted>
+        do not support video tag
+      </video>
+        <canvas id="canvas" width="600" height="500"></canvas>
+    </div>
+    <script src="./bundle.js"></script>
+</body>
+
+</html>
